@@ -4,9 +4,10 @@
 * 確認電影的普遍評價，反映觀眾感官
 
 <p align="center">
-<img alt="與神同行0808.png" style="width: 200px" src="img/與神同行0808.png">
 <img alt="與神同行0812.png" style="width: 200px" src="img/與神同行0812.png">
 </p>
+
+![與神同行0808.png](img/與神同行0808.png | width=400)
 
 <hr>
 
