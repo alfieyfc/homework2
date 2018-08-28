@@ -1,4 +1,5 @@
-#ptt movie板
+# -*- coding: utf-8 -*-
+# ptt movie板
 # 抓取網頁資料
 import string
 name=input(str("搜尋電影關鍵字："))
